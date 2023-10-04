@@ -1,5 +1,5 @@
 {
-    "name": "mohamed/env-parser",
+    "name": "agashe/env-parser",
     "description": "A powerful PHP parser for env files",
     "type": "library",
     "keywords": ["env file",".env","dotenv","parser"],
