@@ -1,0 +1,23 @@
+{
+    "name": "mohamed/env-parser",
+    "description": "A powerful PHP parser for env files",
+    "type": "library",
+    "keywords": ["env file",".env","dotenv","parser"],
+    "homepage": "https://github.com/agashe/Env-Parser",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mohamed.yousef",
+            "email": "engineer.mohamed.yossef@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "EnvParser\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.3"
+    },
+    "require": {}
+}
